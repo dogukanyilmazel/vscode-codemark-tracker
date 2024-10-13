@@ -1,20 +1,21 @@
 # Codemark
 
-Codemark, Visual Studio Code için geliştirilmiş bir eklentidir. Bu eklenti, son düzenlediğiniz konumu takip eder ve dosyanızla çalışmayı kolaylaştırır. Çalışmaya kaldığınız yerden devam etmenizi sağlar.
+Codemark is an extension developed for Visual Studio Code. This extension tracks your last edited position and makes it easier to work with your file. It allows you to continue from where you left off.
 
-## Özellikler
 
-- **Son Düzenlenen Pozisyonu Takip Edin**: Eklenti, son düzenlediğiniz satırı ve karakteri kaydeder.
-- **İkon ile Belirleme**: Son düzenlenen satırın yanında bir ikon gösterir.
-- **Son Açılan Dosyayı Hızla Açın**: Hızlı bir şekilde son düzenlediğiniz dosyaya geçiş yapmanızı sağlar.
-- **Kişiselleştirilebilir Kısayollar**: Komutlara kısayol tanımlayarak erişiminizi kolaylaştırın.
+## Features
 
-## Kurulum
+- **Track Last Edited Position**: The extension saves the last line and character you edited.
+- **Icon Indicator**: It displays an icon next to the last edited line.
+- **Quickly Open Last Edited File**: It enables you to quickly switch back to the file you last edited.
 
-1. Visual Studio Code Marketplace üzerinden `Codemark` eklentisini arayın ve yükleyin.
-2. Alternatif olarak, terminalde aşağıdaki komutu çalıştırarak uzantıyı yükleyebilirsiniz:
+## Installation
+
+1. Search for the `Codemark Tracker` extension in the Visual Studio Code Marketplace and install it.
+
+2. Alternatively, you can install the extension by running the following command in your terminal:
    ```bash
-   code --install-extension dgknylmzl.codemark
+   code --install-extension dgknylmzl.quick-codemark
 
 ## Sponsor
 

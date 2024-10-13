@@ -1,7 +1,8 @@
 {
-  "name": "codemark",
-  "displayName": "codemark",
+  "name": "quick-codemark",
+  "displayName": "Codemark Tracker",
   "description": "Marks the last edited position in your code, allowing you to easily resume where you left off when you reopen VS Code.",
+  "icon": "images/codemark-logo.png", 
   "version": "0.0.1",
   "publisher": "dgknylmzl",
   "engines": {
