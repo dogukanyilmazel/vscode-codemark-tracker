@@ -15,3 +15,9 @@ Codemark, Visual Studio Code için geliştirilmiş bir eklentidir. Bu eklenti, s
 2. Alternatif olarak, terminalde aşağıdaki komutu çalıştırarak uzantıyı yükleyebilirsiniz:
    ```bash
    code --install-extension dgknylmzl.codemark
+
+## Sponsor
+
+If you appreciate this project and want to support its development, consider sponsoring me through GitHub Sponsors. Your support helps me continue to improve this extension and develop new features.
+
+[Become a Sponsor](https://github.com/sponsors/dogukanyilmazel)
