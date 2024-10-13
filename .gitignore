@@ -1,0 +1,18 @@
+# .env dosyasını hariç tut
+.env
+
+# macOS specific files
+.DS_Store
+
+# .vscode klasörünü hariç tut
+.vscode/
+
+# VSCode test files
+.vscode-test.mjs
+.vscodeignore
+
+# node_modules klasörünü hariç tut
+node_modules/
+
+# Package lock file
+package-lock.json
