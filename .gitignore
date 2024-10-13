@@ -7,6 +7,12 @@ node_modules/
 # Environment variables
 .env
 
+# VSCode configurations
+.vscode/
+
+# macOS specific files
+.DS_Store
+
 # Build outputs
 dist/
 build/
@@ -16,3 +22,8 @@ build/
 .DS_Store
 *.tgz
 *.zip
+
+
+# Optional
+.vscode-test.mjs
+.vscodeignore
