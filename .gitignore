@@ -27,3 +27,4 @@ build/
 # Optional
 .vscode-test.mjs
 .vscodeignore
+test/
