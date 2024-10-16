@@ -3,7 +3,7 @@
   "displayName": "Codemark Tracker",
   "description": "Marks the last edited position in your code, allowing you to easily resume where you left off when you reopen VS Code.",
   "icon": "images/codemark-logo.png", 
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "dgknylmzl",
   "engines": {
     "vscode": "^1.94.0"
